@@ -4,7 +4,7 @@ My name is Lucas Françozo. I love computing, hardware, automation and video gam
 
 I want to learn programming since I was a teenager. 
 
-My objective with programming is to create games, to develop software solutions and Arduino or simililar automation or electromechanical applications.
+My objective with programming is to create games, to develop software solutions and Arduino or similar automation or electromechanical applications.
 
 In this moment I'm learning Python language and I'm enjoying it a lot. 
 
